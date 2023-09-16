@@ -3,8 +3,14 @@
   <ItemGroup>
     <ClCompile Include="requiesMonitor.cpp" />
     <ClCompile Include="pch.cpp" />
+    <ClCompile Include="MonitorService.cpp" />
+    <ClCompile Include="MonitorSession.cpp" />
+    <ClCompile Include="PacketHandler.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
+    <ClInclude Include="MonitorService.h" />
+    <ClInclude Include="MonitorSession.h" />
+    <ClInclude Include="PacketHandler.h" />
   </ItemGroup>
 </Project>
